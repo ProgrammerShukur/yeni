@@ -1,0 +1,100 @@
+body{
+	background-image: url(../images/background.jpg);
+	background-size: cover;
+}
+#content{
+	width: 360px;
+	overflow: auto;
+    background-color: white;
+	margin: 0 auto;
+	border: 5px solid #e6e8ef;
+	border-radius: 5px;
+}
+.title{
+	text-align: center;
+	font-size: 24px;
+	font-weight: bold;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#mesafe{
+	margin-top: 200px;
+}
+.label1{
+	margin-bottom: 3px;
+	margin-left: 20px;
+	font-size: 16px;
+}
+
+input{
+	margin-left: 20px;
+	width: 90%;
+	border: 2px solid #a6aeb6;
+	border-radius: 3px;
+	height: 40px;
+	font-size: 16px;
+	margin-top: 0px;
+	color: #bcc4cb;
+}
+::-webkit-input-placeholder { 
+  color: @a6aeb6;
+}
+.input{
+	margin-top: 20px;
+}
+.submit{
+	width: 90%;
+	margin-left: 20px;
+	margin-top: 30px;
+	background-color: #5e6dc6;
+	height: 50px;
+	border: 2px solid #e6e8ef;
+	border-radius: 5px;
+	padding-top: 12px;
+	text-align: center;
+	color: white;
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+.submit:hover{
+	cursor: pointer;
+}
+.sign{
+	background-color: #f9fafb;
+	overflow: auto;
+	margin-top: 5px solid #e6e8ef;
+}
+.submit2{
+	width: 90%;
+	margin-left: 20px;
+	margin-top: 15px;
+	background-color: #fcfdfd;
+	height: 50px;
+	border: 2px solid #e6e8ef;
+	border-radius: 5px;
+	padding-top: 12px;
+	text-align: center;
+	color: white;
+	font-size: 16px;
+	margin-bottom: 10px;
+	color: black;
+}
+
+.yazi{
+	text-align: center;
+	margin-bottom: 20px;
+}
+.find{
+	text-decoration: underline;
+	color: black;
+}
+.find:hover{
+	color: black;
+}
+
+
+
+
+
+
+
